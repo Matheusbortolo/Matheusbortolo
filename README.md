@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Matheus Bortolo. I finished my ADS degree and currently work as a web and application developer. I'm a TechLead in a logistics software company.
+### I'm Matheus Bortolo. I finished my ADS degree and currently work as a web and application developer for 5 years. I'm a TechLead in a logistics software company.
 
 - 🔭 I currently work on back-end web applications and building apps with Flutter
 - 📫 How to reach me: My e-mail: matheusfbortolo07@hotmail.com
