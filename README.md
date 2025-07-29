@@ -2,8 +2,10 @@
 
 ### I'm Matheus Bortolo. I finished my ADS degree and currently work as a web and application developer for 5 years. I'm a TechLead in a logistics software company.
 
-- 🔭 I currently work on back-end web applications and building apps with Flutter
-- 📫 How to reach me: My e-mail: matheusfbortolo07@hotmail.com
+- 🔭 I currently work on front and back-end web applications and building apps with Flutter
+- 📫 How to reach me: matheusfbortolo07@hotmail.com
+- Part of the Cod3x Developers team. http://cod3x.dev.br
+- 📫 How to reach Cod3x: cod3x.developers@gmail.com
   
 
 <div>
