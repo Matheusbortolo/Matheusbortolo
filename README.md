@@ -11,9 +11,8 @@
 <div>
   <img height="250em" width="300em" src="https://github.com/Matheusbortolo/Matheusbortolo/blob/main/img/dev.gif?raw=true"/>
   <a href="https://github.com/Matheusbortolo">
-    <label>requi</label>
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Matheusbortolo&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbortolo&theme=dracula&langs_count=10"/>
+    <img height="180em"  src="https://github-readme-stats-ten-gamma-1jqb9on965.vercel.app/api?username=Matheusbortolo&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-ten-gamma-1jqb9on965.vercel.app/api/top-langs/?username=Matheusbortolo&theme=dracula&langs_count=10"/>
   </a>
   
 </div>
