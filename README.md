@@ -8,17 +8,17 @@
 - 📫 How to reach Cod3x: cod3x.developers@gmail.com
   
 
-<div>
+<div style="text-align: center;">
   <img height="250em" width="300em" src="https://github.com/Matheusbortolo/Matheusbortolo/blob/main/img/dev.gif?raw=true"/>
   <br>
   <a href="https://github.com/Matheusbortolo">
     <img height="180em"  src="https://github-readme-stats-ten-gamma-1jqb9on965.vercel.app/api?username=Matheusbortolo&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
-    <img height="300em" src="https://github-readme-stats-ten-gamma-1jqb9on965.vercel.app/api/top-langs/?username=Matheusbortolo&theme=dracula&langs_count=10&layout=donut-vertical"/>
+    <img height="300em" src="https://github-readme-stats-ten-gamma-1jqb9on965.vercel.app/api/top-langs/?username=Matheusbortolo&theme=dracula&langs_count=5&layout=donut-vertical"/>
   </a>
   
 </div>
 
-<div>
+<div style="text-align: center;">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
