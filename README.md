@@ -1,41 +1,57 @@
-# Hi there 👋
-
-### I'm Matheus Bortolo. I finished my ADS degree and currently work as a web and application developer for 5 years. I'm a TechLead in a logistics software company.
-
-- 🔭 I currently work on front and back-end web applications and building apps with Flutter
-- 📫 How to reach me: matheusfbortolo07@hotmail.com
-- Part of the Cod3x Developers team. http://cod3x.dev.br
-- 📫 How to reach Cod3x: cod3x.developers@gmail.com
-  
-
-<div style="text-align: center;">
-  <img height="250em" width="300em" src="https://github.com/Matheusbortolo/Matheusbortolo/blob/main/img/dev.gif?raw=true"/>
-  <br>
-  <a href="https://github.com/Matheusbortolo">
-    <img height="180em"  src="https://github-readme-stats-ten-gamma-1jqb9on965.vercel.app/api?username=Matheusbortolo&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=7200"/>
-    <img height="300em" src="https://github-readme-stats-ten-gamma-1jqb9on965.vercel.app/api/top-langs/?username=Matheusbortolo&theme=dracula&langs_count=5&layout=donut-vertical"/>
-  </a>
-  
-</div>
-
-<div style="text-align: center;">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
-
-<br/>
 <div>
-  <a href="https://www.linkedin.com/in/matheus-bortolo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-  <a href="mailto:matheusfbortolo07@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-</div>
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheusbortolo/Matheusbortolo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheusbortolo/Matheusbortolo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matheusbortolo/Matheusbortolo/output/github-contribution-grid-snake.svg">
-</picture>
+    <p align="center">
+        <img style="width: 100%; height: auto;"  src="https://github.com/Matheusbortolo/teste-readme/blob/main/img/banner.jpg?raw=true"/>
+    </p>
+    <div style="border-bottom: 3px solid #fff; margin: 20px 0;"></div>
+    <h2 align="center"><em>About Me</em></h2>
+    <div style="border-bottom: 3px solid #fff; margin: 20px 0;"></div>
+    <table border="0" cellspacing="0" cellpadding="0" width="100%" role="presentation"
+       style="border: none; border-collapse: collapse;">
+        <tr style="border: none;">
+            <td width="30%" valign="middle" align="center" style="border: none;">
+                <img src="https://github.com/Matheusbortolo/Matheusbortolo/blob/main/img/space.gif?raw=true"
+                    alt="Minha foto" width="100%" style="border: none;" />
+            </td>
+            <td width="70%" valign="middle" align="left" style="border: none;">
+                <h2 align="center"><em>Mobile Developer</em></h2>
+                <p>
+                    <em>
+                        Hi! I'm Matheus, a 28-year-old developer passionate about creating web pages and mobile applications.
+                        I enjoy working on clean, functional interfaces and building solutions that make people’s lives easier.
+                        <br/><br/>
+                        Outside of coding, I’m really into cars and gaming, and I love listening to music while I develop — it helps me stay focused and inspired.
+                        <br/><br/>
+                        I hold a degree in Systems Analysis and Development, as well as postgraduate degrees in Web Systems Development and Mobile Application Development.
+                        <br/><br/>
+                    </em>
+                </p>
+            </td>
+        </tr>
+    </table>
+    <div style="display: flex; align-items: center; width: 100%;">
+    <h2 align="center"><em>Technologies</em></h2>
+    <div style="border-bottom: 3px solid #fff; margin: 20px 0;"></div>
+    <div align="center">
+        <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/Vue%203-000000?style=for-the-badge&logo=vuedotjs&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/Firebird-000000?style=for-the-badge&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=ffffff">
+    <div>
+    <h2 align="center"><em>Statistics</em></h2>
+    <div style="border-bottom: 3px solid #fff; margin: 20px 0;"></div>
+    <div align="center">
+        <img height="160em"  src="https://github-readme-stats-ten-gamma-1jqb9on965.vercel.app/api?username=Matheusbortolo&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&cache_seconds=7200&title_color=ffffff"/>
+        <img height="160em" src="https://streak-stats.vercel.app/?user=Matheusbortolo&theme=highcontrast&ring=ffffff&fire=ffffff&dates=ffffff&border=ffffff" />
+    </div>
+     <br/>
+     <img   src="https://github-readme-activity-graph.vercel.app/graph?username=Matheusbortolo&theme=high-contrast"/>
 </div>
