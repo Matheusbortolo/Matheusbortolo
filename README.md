@@ -1,6 +1,6 @@
 <div>
     <p align="center">
-        <img style="width: 100%; height: auto;"  src="https://github.com/Matheusbortolo/teste-readme/blob/main/img/banner.jpg?raw=true"/>
+        <img style="width: 100%; height: auto;"  src="https://github.com/Matheusbortolo/Matheusbortolo/blob/main/img/banner.jpg?raw=true"/>
     </p>
     <div style="border-bottom: 3px solid #fff; margin: 20px 0;"></div>
     <h2 align="center"><em>About Me</em></h2>
